@@ -11,6 +11,11 @@ RSpec.describe Article, type: :model do
 			@article.title = nil 
 			expect(@article).to_not be_valid 
 		end
+
+		it "should not let article be created without text" do 
+			@article.text = nil
+			expect(@article).to_not be_valid
+		end
 	end
 
 end
