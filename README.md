@@ -1,24 +1,5 @@
-# README
+# Super Basic Blog with RSpec Model Testing	
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Learning how to test models with RSpec with a very very basic blog. This contains a single model, i.e, Article. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Feedback appreciated for improvement. 
